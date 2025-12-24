@@ -14,6 +14,6 @@ This repository contains my journey learning PyTorch, covering fundamental conce
 - Explore computer vision and NLP applications
 - Learn best practices for PyTorch development
 
-## Niteh Sir
+## Nitish Sir
 Here I practiced Codes and lectures from the playlist below
 Link :https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7&si=UHdoehe6dgO6NeAs
