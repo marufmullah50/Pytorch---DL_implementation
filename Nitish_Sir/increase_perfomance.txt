@@ -1,0 +1,17 @@
+Change:
+
+Optimizer
+
+learning rate
+
+epochs
+
+weight initializer
+
+drop
+
+batch normalization
+
+hyper parameter tuning( Architecture)
+
+Increase data
