@@ -57,3 +57,44 @@ __pycache__/
 .DS_Store
 Thumbs.db
 EOF
+
+# ===============================
+# Secrets & credentials
+# ===============================
+.env
+.env.*
+*.env
+
+# API keys / tokens
+apikey.txt
+secrets.json
+credentials.json
+config.json
+*.pem
+*.key
+
+# ===============================
+# Cloud / service credentials
+# ===============================
+.aws/
+.gcp/
+.azure/
+
+# ===============================
+# Python config with secrets
+# ===============================
+settings.py
+local_settings.py
+
+# ===============================
+# Notebooks & cache
+# ===============================
+.ipynb_checkpoints/
+__pycache__/
+
+# ===============================
+# OS junk
+# ===============================
+.DS_Store
+Thumbs.db
+
