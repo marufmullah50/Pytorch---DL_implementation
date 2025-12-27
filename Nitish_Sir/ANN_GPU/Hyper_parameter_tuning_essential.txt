@@ -1,0 +1,21 @@
+Tuning Methods:
+
+1. Grid search CV
+
+2. Random search CV
+
+3. Bayesian search (Optuna) - Mainly focused on this Advanced
+
+
+#**Optuna Tuned Hyper parameters**
+
+1. Number of hidden layers .
+2. Neurons per layer
+3. Number of epochs
+4. Optimizer
+5. Learning rate
+6. Batch size
+7. Dropout rate
+8. Weight decay(lambda)
+
+
