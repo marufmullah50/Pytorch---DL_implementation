@@ -1,0 +1,8 @@
+git add -f data/sample.jpg
+git add -f videos/demo.mp4
+git commit -m "Add sample image and demo video"
+git push
+
+git add -f G:/Github_Projects/Pytorch_learning/YOLO/runs/detect/predict2/dog_cat.jpg
+
+git add -f G:/Github_Projects/Pytorch_learning/YOLO/runs/detect/predict/dog_cat.avi
