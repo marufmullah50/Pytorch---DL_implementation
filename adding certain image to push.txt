@@ -5,4 +5,4 @@ git push
 
 git add -f G:/Github_Projects/Pytorch_learning/YOLO/runs/detect/predict2/dog_cat.jpg
 
-git add -f G:/Github_Projects/Pytorch_learning/YOLO/runs/detect/predict/dog_cat.avi
+git add-f G:/Github_Projects/Pytorch_learning/YOLO/runs/detect/predict/dog_cat.avi

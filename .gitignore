@@ -16,6 +16,7 @@ cat <<EOF > .gitignore
 *.onnx
 *.joblib
 *.pkl
+*.yml
 
 # ===============================
 # Images
