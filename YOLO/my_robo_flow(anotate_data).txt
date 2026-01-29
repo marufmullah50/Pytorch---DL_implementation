@@ -1,1 +1,0 @@
-anotate :https://app.roboflow.com/marufmullah-yioyc/casting_defect_annotation/2
